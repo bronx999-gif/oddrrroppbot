@@ -1,0 +1,81 @@
+{
+  "total_views": 0,
+  "today_date": "",
+  "today_views": 0,
+  "success_count": 6,
+  "fail_count": 1,
+  "mode": "paid",
+  "default_credits": 1,
+  "users": [],
+  "cracked_history": [
+    {
+      "timestamp": "2026-10-09 11:31:53",
+      "chat_id": 6504002602,
+      "username": "Zeern11",
+      "first_name": "𝗭𝗲𝗲",
+      "name": "Puja Rani Hembram",
+      "mobile": "8093221003",
+      "uid": "2261 0024 5048",
+      "password": "PUJA2004",
+      "eid": "0143182440721520250303155519"
+    },
+    {
+      "timestamp": "2026-10-09 11:33:16",
+      "chat_id": 6504002602,
+      "username": "Zeern11",
+      "first_name": "𝗭𝗲𝗲",
+      "name": "Rahul",
+      "mobile": "8854060872",
+      "uid": "7871 5935 7495",
+      "password": "RAHU2007",
+      "eid": "0516160070018620241106164727"
+    },
+    {
+      "timestamp": "2026-10-09 12:23:37",
+      "chat_id": 6504002602,
+      "username": "Zeern11",
+      "first_name": "𝗭𝗲𝗲",
+      "name": "Nitin",
+      "mobile": "7206368027",
+      "uid": "5677 8111 3854",
+      "password": "NITI2006",
+      "eid": "2103131980357320250213121727"
+    },
+    {
+      "timestamp": "2026-10-09 12:25:52",
+      "chat_id": 6504002602,
+      "username": "Zeern11",
+      "first_name": "𝗭𝗲𝗲",
+      "name": "Archana Bhimrao Jadhav",
+      "mobile": "9209217516",
+      "uid": "4809 1855 9221",
+      "password": "ARCH2002",
+      "eid": "2836073280065820230915124222"
+    },
+    {
+      "timestamp": "2026-10-09 12:28:13",
+      "chat_id": 6504002602,
+      "username": "Zeern11",
+      "first_name": "𝗭𝗲𝗲",
+      "name": "Manish",
+      "mobile": "9001954040",
+      "uid": "3945 7863 4791",
+      "password": "MANI2009",
+      "eid": "2091489720049320180620113044"
+    },
+    {
+      "timestamp": "2026-10-09 12:29:47",
+      "chat_id": 6504002602,
+      "username": "Zeern11",
+      "first_name": "𝗭𝗲𝗲",
+      "name": "Vadher Prafulbhai Ramjibhai",
+      "mobile": "9328560205",
+      "uid": "9237 3926 9565",
+      "password": "VADH1984",
+      "eid": "0221004540179620241228160136"
+    }
+  ],
+  "today_users": [],
+  "cooldown_seconds": 60,
+  "max_concurrent_tasks": 15
+}
